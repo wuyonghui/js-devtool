@@ -1,12 +1,11 @@
 {
-  "name": "weex-devtool",
-  "description": "weex developer tool for debugging weex app with chrome devtool",
-  "version": "0.2.83",
-  "author": "exolution <exolution@163.com>",
+  "name": "js-devtool",
+  "description": "js-native developer tool for debugging js-naive app with chrome devtool",
+  "version": "0.1.0",
+  "author": "david.wu",
   "license": "GPL-3.0",
   "main": "index.js",
   "keywords": [
-    "weex",
     "debugger",
     "inspector",
     "devtool"
@@ -49,7 +48,7 @@
     "weex-transformer": "^0.3.1"
   },
   "bin": {
-    "weex-devtool": "bin/weex-devtool.js"
+    "js-devtool": "bin/js-devtool.js"
   },
   "babel": {
     "presets": [
